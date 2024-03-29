@@ -11,5 +11,5 @@ variable "sg_id" {
 }
 
 variable "number_of_instances" {
-  type = number
+  type = string
 }
